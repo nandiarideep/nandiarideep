@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning React.js & Redux....
 - 💞️ I’m looking to collaborate on Web Dev Projects & more...
 - 📫 How to reach me ...
-    <ul>LinkedIn : </ul>
+ 
+ javascript typescript react graphql nodejs
   
 
 <!---
