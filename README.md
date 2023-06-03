@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Web Dev Projects & more...
 - 📫 How to reach me ...
 -  My Skills .....
--  ![image](https://github.com/nandiarideep/nandiarideep/assets/125820148/97395fbe-9a49-47bf-9ec1-7158c7294fd5) ![image](https://github.com/nandiarideep/nandiarideep/assets/125820148/1c83bd80-437b-4748-bdf8-023a4d99db30) ![javascript](https://github.com/nandiarideep/nandiarideep/assets/125820148/9f0f4eef-0394-4641-b672-6d41a53bf970)
+
+![html-5](https://github.com/nandiarideep/nandiarideep/assets/125820148/9cbc3092-bdb4-4fa6-97e2-9a6a3046961b)
 
 
 
